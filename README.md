@@ -38,6 +38,8 @@
 
 - [![Locally](https://img.shields.io/badge/HellBot-Deploy%20Locally-black?style=for-the-badge&logo=linux)](#Deploy-Locally)
 
+
+  Deploy on Railway [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/2P2cBK?referralCode=EktnNK)
 ------
 ## YouTube 📺
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
